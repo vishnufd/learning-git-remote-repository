@@ -4,6 +4,8 @@
 
 body {
     margin: 0;
+    padding-inline: 3rem;
+    background-color: gray;
 }
 
 h1 {
