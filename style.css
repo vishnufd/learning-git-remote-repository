@@ -7,12 +7,3 @@ body {
     padding-inline: 3rem;
     background-color: gray;
 }
-
-h1 {
-    font-family: sans-serif;
-<<<<<<< HEAD
-    font-size: 10rem;
-=======
-    font-size: 1.5rem;
->>>>>>> refs/remotes/origin/main
-}
