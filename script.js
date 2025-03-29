@@ -9,9 +9,14 @@ for (let i = 0; i <= 5; i++) {
 
 function generateRandomNumbers() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 }
 >>>>>>> Stashed changes
+=======
+  console.log('10');
+}
+>>>>>>> 40c695d (update function generate)
 =======
   console.log('10');
 }
