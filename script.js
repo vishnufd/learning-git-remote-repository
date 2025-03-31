@@ -6,5 +6,5 @@ for (let i = 0; i <= 5; i++) {
 }
 
 function generateRandomNumbers() {
-
+  return console.log(100 + 150);
 }
